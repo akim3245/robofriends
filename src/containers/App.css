@@ -1,0 +1,13 @@
+
+@font-face {
+font-family: 'Billabong';
+font-style: normal;
+font-weight: normal;
+src: local('Billabong'), url('Billabong.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Billabong';
+	font-weight: 200;
+	color: #0ccac4;
+}
